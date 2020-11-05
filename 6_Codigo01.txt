@@ -2,7 +2,7 @@ INSERT INTO articles (title,body,created)
     VALUES ('The title', 'This is the article body.', NOW());
 INSERT INTO articles (title,body,created)
     VALUES ('A title once again', 'And the article body follows.', NOW());
-INSERT INTO articles (title,body,created)
+INSERT INTO articles (title,body,createdgyfuy
     VALUES ('Title strikes back', 'This is really exciting! Not.', NOW());
 
 
